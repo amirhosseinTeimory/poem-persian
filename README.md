@@ -10,22 +10,6 @@
 
 This project is a full-stack web application designed to generate classical Persian poetry using Large Language Models (LLMs). It was developed as a university project for the Computer Engineering department.
 
----
-
-## 📸 پیش‌نمایش / Screenshot
-
-<div dir="rtl">
-
-در اینجا می‌توانید نمایی از رابط کاربری اصلی برنامه را مشاهده کنید:
-
-</div>
-
-*In this section, you can see a preview of the main user interface:*
-
-![Screenshot of the Persian Poetry Generator App](https://via.placeholder.com/800x450.png?text=Your+App+Screenshot+Here)
-*(نکته: این یک تصویر نمونه است. لطفاً یک اسکرین‌شات از برنامه خودتان گرفته، آن را در گیت‌هاب آپلود کنید و لینک آن را در اینجا جایگزین نمایید).*
-
----
 
 ## ✨ قابلیت‌ها / Features
 
